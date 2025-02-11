@@ -1,4 +1,4 @@
-# Travelgram - Perfil de Viagens
+# Travelgram - Perfil de Viagens - Exercício Proposto pela Rocketseat
 
 Travelgram é um projeto de página de perfil de viagens, onde usuários podem compartilhar suas experiências de viagem, fotos e informações sobre seus destinos favoritos. Este projeto é uma aplicação web simples, escrita em HTML e CSS.
 

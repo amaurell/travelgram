@@ -1,4 +1,4 @@
-# Travelgram - Perfil de Viagens
+# Travelgram - Perfil de Viagens - Exercício Proposto pela Rocketseat
 
 <img src="travelimg.jpg" alt="Image do Projeto" width="800"/>
 
@@ -50,4 +50,7 @@ para mais detalhes.
 
 Contato
 Para dúvidas ou sugestões, você pode entrar em contato através do e-mail: amaurell@gmail.com
+<<<<<<< HEAD
 ```
+=======
+>>>>>>> d7e8ae1652029c8b549d9d2045b8e5ac738d9ea8

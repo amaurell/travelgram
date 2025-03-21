@@ -1,5 +1,7 @@
 # Travelgram - Perfil de Viagens
 
+<img src="travelimg.jpg" alt="Image do Projeto" width="800"/>
+
 Travelgram é um projeto de página de perfil de viagens, onde usuários podem compartilhar suas experiências de viagem, fotos e informações sobre seus destinos favoritos. Este projeto é uma aplicação web simples, escrita em HTML e CSS.
 
 ## Visão Geral
@@ -48,3 +50,4 @@ para mais detalhes.
 
 Contato
 Para dúvidas ou sugestões, você pode entrar em contato através do e-mail: amaurell@gmail.com
+```
